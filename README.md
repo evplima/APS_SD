@@ -3,4 +3,6 @@ APS DA FACULDADE - MÁTERIA DE SISTEMAS DISTRIBUÍDOS Consume a API RESTful hosp
 
 Dentro do arquivo APS_SD2 tem dois projetos: 
 1 - APS Mobile: Aplicação mobile para o usuário final
+
+
 2 - APS_SD Webservice (Spring Boot): Código fonte do webservice hospedado no EC2 que serve como camada de comunicação entre o mobile e a API "Olho Vivo".
